@@ -1,0 +1,22 @@
+# Technical SEO robots.txt for typing.ajaynxt.com
+# Managed by AJAY NXT (ajaynxt.com)
+
+User-agent: *
+Allow: /
+Allow: /index.html
+
+# Targeted Crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# Canonical Host
+Host: https://typing.ajaynxt.com
+
+# XML Sitemaps
+Sitemap: https://typing.ajaynxt.com/sitemap.xml
